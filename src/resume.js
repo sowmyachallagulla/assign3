@@ -48,7 +48,7 @@ class Resume extends React.Component{
                     <table className="table table-striped">
           <thead>
             <tr>
-              <th scope="col">#</th>
+              <th scope="col">College/School</th>
               <th scope="col">Name</th>
               <th scope="col">Batch</th>
               <th scope="col">Percentage</th>
